@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <Authors>Maruf</Authors>
+    <Description>A package for Base Domain Model.</Description>
+  </PropertyGroup>
+
+</Project>
